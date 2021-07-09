@@ -1,4 +1,6 @@
-//excel utilshere
+package utils;
+
+
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.KeyedHandler;
 import org.apache.commons.dbutils.handlers.MapListHandler;
@@ -6,8 +8,7 @@ import org.json.JSONArray;
 
 /**
  * DBUtils encapsulates methods required to get data from an Oracle database
- *
- * @author gholla01
+
  */
 public class DBUtils {
 
