@@ -1,17 +1,4 @@
-/*************************************************************************************************************
- * 
- * 	program name:	ExcelUtils.java
- * 	author		:	Rolando Tan (rtan01)
- * 	date		:	10/24/2016
- * 
- * 	description	:	This class retrieves test case data from a datasheet.
- * 				:	The data retrieved from the datasheet is held in a public collection (hashmap)
- * History		:	
- * 					2/23/2017 - Aditya Inapurapu: 
- * 								Added to branch and edited to confirm to coding and documentation standards 
- * 								Moved ExcelUtils methods to this class 
- * 								Renamed this class TestDataSheetReader to ExcelUtils
- ***************************************************************************************************************/
+**********************************************************************************************************/
 
 package com.bsc.qa.framework.utility;
 
